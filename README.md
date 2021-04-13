@@ -1,9 +1,9 @@
 ![Course Header Copyright https://photojournal.jpl.nasa.gov](https://github.com/GeoMOER/moer-mhg-rgis/blob/main/docs/assets/images/spatial_data_title_banner.jpg "Image source: https://photojournal.jpl.nasa.gov/jpeg/PIA17446.jpg")
-Der [Kursinhalt](https://geomoer.github.io/moer-mhg-rgis/) wird auf Github entwickelt und gehostet [Course Release on Github](https://geomoer.github.io/moer-bsc-systemdynamik/)
+Der Kursinhalt wird auf Github entwickelt und [gehostet](https://geomoer.github.io/moer-mhg-rgis/)
 
-Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) von der Arbeitsgruppe [Umweltinformatik](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) des [Fachbereichs Geographie](https://www.uni-marburg.de/fb19) zur Verfügung gestellt.
+Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) von der Forschungsgruppe [Umweltinformatik](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) des [Fachbereichs Geographie](https://www.uni-marburg.de/fb19) zur Verfügung gestellt.
 
-Die Verantwortung für den Inhalt liegt bei den Referenten. Aussagen, Meinungen und/oder Schlussfolgerungen stammen von den Referenten und geben nicht unbedingt die Meinung der Vertreter der Universität Marburg wieder.  
+Die Verantwortung für den Inhalt liegt bei den jeweiligen Autoren. Aussagen, Meinungen und/oder Schlussfolgerungen stammen von den Referenten und geben nicht unbedingt die Meinung der Vertreter der Universität Marburg wieder.  
 
 
 

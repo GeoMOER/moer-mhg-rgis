@@ -1,3 +1,4 @@
+![](https://github.com/GeoMOER/moer-mhg-rgis/blob/main/docs/assets/images/spatial_data_title_banner.jpg)
 Der [Kursinhalt](https://geomoer.github.io/moer-mhg-rgis/) wird auf Github entwickelt und gehostet [Course Release on Github](https://geomoer.github.io/moer-bsc-systemdynamik/)
 
 Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) von der Arbeitsgruppe [Umweltinformatik](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) des [Fachbereichs Geographie](https://www.uni-marburg.de/fb19) zur Verfügung gestellt.

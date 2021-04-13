@@ -60,17 +60,17 @@ Am 28.04.2020 findet die Online-Auftaktveranstaltung statt. Den Link finden Sie 
 
 | Sitzung | Datum | Thema | Inhalt |
 |:-------:|:--------:|:---------|:---------|
-| **Block 1** ||||
-| 1 | 28.05.  | Einführung | Einführung in geographische und GI Raumkonzepte, Einführung in `R` als Programmiersprache, Einstiegsbeispiel Verknüpfung von Tabellen mit Geometriedaten |
-| 2 | 05.05.  | Räumliche Datenvisualisierung, Karten und mehr | Die reproduzierbare Erstellung von Karten zur explorativen und interaktiven Nutzung sowie zur Darstellung von Ergebnissen |
-| 3 | 12.05.  | Räumliche Datenvorhersage und ihre Exploration | Überblick über wichtige Methoden zur räumlichen Vorhersage und ihre Darstellung |
-| 4 | 19.05.  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 1 die Grundlagen  | Grundlagen des Maschinellen Lernens am Beispiel des random forest Algorithmus, räumliche Besonderheiten |
-| 5 | 26.05.  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 2 das Projekt  | Projekt zu einer einfachen ML Anwendung inkl. Visualisierung und Kurzanalyse  |
+| **Block 2** ||||
+| 1 |   | Einführung | Einführung in geographische und GI Raumkonzepte, Einführung in `R` als Programmiersprache, Einstiegsbeispiel Verknüpfung von Tabellen mit Geometriedaten |
+| 2 |   | Räumliche Datenvisualisierung, Karten und mehr | Die reproduzierbare Erstellung von Karten zur explorativen und interaktiven Nutzung sowie zur Darstellung von Ergebnissen |
+| 3 |   | Räumliche Datenvorhersage und ihre Exploration | Überblick über wichtige Methoden zur räumlichen Vorhersage und ihre Darstellung |
+| 4 | | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 1 die Grundlagen  | Grundlagen des Maschinellen Lernens am Beispiel des random forest Algorithmus, räumliche Besonderheiten |
+| 5 |   | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 2 das Projekt  | Projekt zu einer einfachen ML Anwendung inkl. Visualisierung und Kurzanalyse  |
 
 
 ## Team
 
-Block 1 wird von Chris Reudenbach durchgeführt während die Blöcke 2 und 3 von Thomas Brenner geleitet werden. 
+Block 1 wird von Thomas Brenner, Block 2 von Chris Reudenbach und Block 3 von Simone Strambach geleitet. 
 
 {% for author in site.data.authors %} 
   {% include author-profile.html %}
